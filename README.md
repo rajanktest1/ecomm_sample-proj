@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopEasy E-Commerce Website
 
 A full-stack 3-tier e-commerce web application built with React, Node.js, and SQLite.
@@ -152,3 +153,7 @@ npx vite --port 3000
 ```
 
 Then open **http://localhost:3000** in your browser.
+=======
+# ecomm_sample-proj
+A full-stack 3-tier e-commerce web application built with React, Node.js, and SQLite.
+>>>>>>> db331333d3b9b90b806ebab810a8805f486c8a67
